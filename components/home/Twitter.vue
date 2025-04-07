@@ -1,4 +1,4 @@
-<!-- <script setup>
+<script setup>
 import { ArrowRight } from 'lucide-vue-next'
 import { XIcon } from 'vue3-simple-icons'
 
@@ -6,7 +6,7 @@ const { twitter } = useAppConfig()
 </script>
 
 <template>
-  <a
+  <!-- <a
     :href="twitter"
     target="_blank"
     title="X(Twitter)"
@@ -19,5 +19,5 @@ const { twitter } = useAppConfig()
     />
     <span>{{ $t('home.twitter.follow') }}</span>
     <ArrowRight class="w-4 h-4" />
-  </a>
-</template> -->
+  </a> -->
+</template>
