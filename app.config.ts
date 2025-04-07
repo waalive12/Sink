@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'Sink',
+  title: 'URL',
   email: 'conf@d.c',
   github: 'https://google.com',
   twitter: 'https://google.com',
