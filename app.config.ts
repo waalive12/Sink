@@ -6,7 +6,7 @@ export default defineAppConfig({
   telegram: 'https://google.com',
   mastodon: 'https://google.com',
   blog: 'https://google.com',
-  description: 'A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.',
+  description: 'Nome de domínio de encaminhamento de link curto de cassino online, você também pode acessar diretamente o nome de domínio. Este site fornece apenas serviços de encaminhamento, e todos os sites encaminhados são sites legais. O acesso de usuários menores de 18 anos é proibido.',
   image: 'https://sink.cool/banner.png',
   previewTTL: 300, // 5 minutes
   slugRegex: /^[a-z0-9]+(?:-[a-z0-9]+)*$/i,

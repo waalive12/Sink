@@ -54,31 +54,31 @@
   },
   "home": {
     "features": {
-      "title": "功能特点",
-      "subtitle": "简单而实用的功能",
+      "title": "Características",
+      "subtitle": "Funções simples e práticas",
       "url_shortening": {
-        "title": "URL 缩短",
-        "description": "将您的 URL 压缩到最小长度"
+        "title": "Ajuda a identificar links falsos",
+        "description": "Detectaremos de forma inteligente cassinos fraudulentos e sites de phishing e avisaremos você antes de clicar no link."
       },
       "analytics": {
-        "title": "数据分析",
-        "description": "监控链接分析并收集有价值的统计数据"
+        "title": "Análise de dados",
+        "description": "Monitore análises de links e colete estatísticas valiosas"
       },
       "serverless": {
-        "title": "无服务器",
-        "description": "无需传统服务器即可部署"
+        "title": "Sem servidor",
+        "description": "Não armazenaremos nenhuma informação do visitante署"
       },
       "customizable_slug": {
-        "title": "自定义短链",
-        "description": "支持个性化短链和大小写敏感"
+        "title": "Verificação de segurança",
+        "description": "Elimine resolutamente sites ilegais"
       },
       "ai_slug": {
-        "title": "AI 短链",
-        "description": "利用 AI 生成短链"
+        "title": "Identificação de IA",
+        "description": "Use IA para identificar impactos negativos na plataforma, bloquear acessos e reduzir perdas de usuários"
       },
       "link_expiration": {
-        "title": "链接过期",
-        "description": "为您的链接设置过期日期"
+        "title": "reclamação",
+        "description": "Não é preciso esperar para registrar uma reclamação"
       }
     },
     "cta": {
@@ -87,10 +87,10 @@
       "button": "开始部署"
     },
     "logos": {
-      "title": "使用优秀的技术构建"
+      "title": "Construído com tecnologia de ponta"
     },
     "twitter": {
-      "follow": "在 X(Twitter) 上关注我"
+      "follow": "Twitter"
     }
   },
   "dashboard": {
