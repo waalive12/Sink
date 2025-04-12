@@ -20,7 +20,7 @@ const { title, description, github } = useAppConfig()
         {{ description }}
       </p>
       <div class="flex flex-col gap-3 mt-6 sm:flex-row">
-        <HomeLink
+        <!-- <HomeLink
           href="/dashboard"
           target="_blank"
           title="Dashboard"
@@ -31,7 +31,7 @@ const { title, description, github } = useAppConfig()
             class="w-5 h-5"
           />
           {{ $t('dashboard.title') }}
-        </HomeLink>
+        </HomeLink> -->
         <HomeLink
           size="lg"
           type="outline"

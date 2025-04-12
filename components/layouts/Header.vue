@@ -59,11 +59,11 @@ const { title, github } = useAppConfig()
             <div
               class="flex flex-col items-start justify-end w-full pt-4 md:items-center md:flex-row md:py-0"
             >
-              <a
+              <!-- <a
                 class="w-full px-6 py-2 mr-0 text-gray-700 cursor-pointer dark:text-gray-300 md:px-3 md:mr-2 lg:mr-3 md:w-auto"
                 href="/dashboard"
                 :title="`${title} Dashboard`"
-              >{{ $t('dashboard.title') }}</a>
+              >{{ $t('dashboard.title') }}</a> -->
               <a
                 :href="github"
                 target="_blank"
